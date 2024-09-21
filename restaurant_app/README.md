@@ -1,10 +1,11 @@
 VARSAYILAN KULLANICILAR
 
 admin:admin (admin)<br>
-alpaslant:123 (şirket sahibi)
-bedirhant:123 (şirket sahibi)
 
-tombalaci_mehmet:12345 (müşteri)
-bilaltt:123 (müşteri)
+alpaslant:123 (şirket sahibi)<br>
+bedirhant:123 (şirket sahibi)<br>
+
+tombalaci_mehmet:12345 (müşteri)<br>
+bilaltt:123 (müşteri)<br>
 
 Bu credentials ile giriş yapılabilir veya yeni kullanıcılar oluşturulabilir.
