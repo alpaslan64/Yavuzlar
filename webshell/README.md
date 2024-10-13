@@ -19,7 +19,7 @@
 Hedef sunucuda komut çalıştırmak istediğimizde Commands altında bulunan Command sayfasına başvurabiliriz.<br><br>
 <strong>Run Command</strong> sayfasında bulunan input alanına girdiğimiz her komut sunucu tarafındna işlenip çıktısı verilecektir.
 </p>
-<br><br>
+<br>
 
 
 <h1>EN</h1>
@@ -42,3 +42,9 @@ This page helps us obtain some information about the target server. It shows us 
   When we want to run a command on the target server, we can refer to the Command page under Commands.<br><br>
   <strong>Run Command</strong> Each command we enter in the input field on the page will be processed by the server, and the output will be displayed.
 </p>
+<h1>Örnek Resimler / Example Images</h1>
+
+![image](https://github.com/user-attachments/assets/fdba16ee-b031-4cbf-b8e7-d0d210e372df)
+![image](https://github.com/user-attachments/assets/c80d9ad8-987e-4334-b942-4dc9eb996087)
+![image](https://github.com/user-attachments/assets/8fc7ca88-b06e-460c-9c8b-bdac93b8fdff)
+
