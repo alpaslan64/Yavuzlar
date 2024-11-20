@@ -1,0 +1,32 @@
+Unit: GRAM ALTIN
+Value: 2.936,44 TL
+Rate: %0,56
+-----------------
+Unit: DOLAR
+Value: 34,4689 TL
+Rate: %-0,04
+-----------------
+Unit: EURO
+Value: 36,2795 TL
+Rate: %-0,80
+-----------------
+Unit: STERLİN
+Value: 43,6122 TL
+Rate: %-0,35
+-----------------
+Unit: BIST 100
+Value: 9.031,82 TL
+Rate: %-2,18
+-----------------
+Unit: BITCOIN
+Value: $94.060 TL
+Rate: %1,89
+-----------------
+Unit: GRAM GÜMÜŞ
+Value: 34,49 TL
+Rate: %-0,54
+-----------------
+Unit: BRENT
+Value: $73,17 TL
+Rate: %0,00
+-----------------

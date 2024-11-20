@@ -1,0 +1,60 @@
+Number: 1
+Title: Halkın Parası Halkın Cebinde Kalacak
+Date: 19 Kasım 2024, 16:59
+Description: Uşak Belediyesi Yeni Taş Basma Makinesi Sayesinde Kendi Taşını Üretecek
+---------------------------
+Number: 2
+Title: Başkan Yalım Bizzat duyurdu; “Uşak Kart” Yakında Hizmete Giriyor!
+Date: 19 Kasım 2024, 16:04
+Description: Başkan Yalım Bizzat duyurdu; “Uşak Kart” Yakında Hizmete Giriyor!
+---------------------------
+Number: 3
+Title: Aşigo Zinciri Kırdı
+Date: 18 Kasım 2024, 14:27
+Description: Uşakspor Kendi Evinde Şeytanın Bacağını Kırdı; Kırmızı-Siyahlılar Silivrispor’u 6-0 Mağlup Etti!
+---------------------------
+Number: 4
+Title: Başkan Yalım’dan 10 Kasım Anma Mesajı
+Date: 08 Kasım 2024, 16:40
+Description: Uşak Belediye Başkanı Özkan Yalım 10 Kasım Atatürk’ü Anma Günü dolayısıyla bir mesaj yayımladı.
+---------------------------
+Number: 5
+Title: Duyuru!
+Date: 07 Kasım 2024, 12:13
+Description: Emlak Ve Çevre Temizlik Vergileri 2. Taksiti Son Ödeme Tarihi 2 Aralık 2024 Pazartesi Günüdür.
+---------------------------
+Number: 6
+Title: Uşak Lezzetleri Yöreselden Ulusala Taştı
+Date: 02 Kasım 2024, 00:47
+Description: Tv8’in Milyonları Ekrana Kilitleyen Yarışma Programı MasterChef, Uşak’ta Çekilen Bölümüyle Reyting Rekorları Kırdı
+---------------------------
+Number: 7
+Title: Uşak'ta Nostaljik Tramvay İçin İlk Adım Atıldı
+Date: 01 Kasım 2024, 19:03
+Description: Kentte Bir İlke İmza Atan Tramvay Projesinin Tanıtımı Bugün Coşkulu Bir Törenle Gerçekleşti.
+---------------------------
+Number: 8
+Title: Uşak'ta 29 Ekim Coşkusu Yaşandı
+Date: 30 Ekim 2024, 14:53
+Description: 29 Ekim Cumhuriyet Bayramı’nın 101. Yılı Tüm Yurtta Olduğu Gibi Uşak’ta da Coşkuyla Kutlandı
+---------------------------
+Number: 9
+Title: Başkan Yalım'dan 29 Ekim Cumhuriyet Bayramı Mesajı
+Date: 28 Ekim 2024, 09:29
+Description: Uşak Belediye Başkanı Özkan Yalım 29 Ekim Cumhuriyet Bayramı münasebetiyle bir mesaj yayımladı.
+---------------------------
+Number: 10
+Title: Uşak Belediyesi İhale İlanı
+Date: 25 Ekim 2024, 10:23
+Description: 
+---------------------------
+Number: 11
+Title: Hayvanı Sevmeyen İnsanı Sevemez
+Date: 07 Ekim 2024, 16:35
+Description: Uşak Belediyesi Hayvanları Koruma Günü Dolayısıyla Hafta Boyunca Etkinlik Düzenledi
+---------------------------
+Number: 12
+Title: Taksi Plakası İhalesi Hakkında
+Date: 07 Ekim 2024, 12:18
+Description: 
+---------------------------
