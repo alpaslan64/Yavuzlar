@@ -5,7 +5,8 @@ Bu araç, hedef bir domain üzerinde eş zamanlı olarak pasif ve aktif bilgi to
 **Platform:** Araç, **Linux** ortamları (Kali, Ubuntu, Debian vb.) için tasarlanmış ve optimize edilmiştir. Windows kullanıcıları, aracı WSL (Windows Subsystem for Linux) içinde sorunsuz bir şekilde çalıştırabilir.
 
 ![Dashboard Ekran Görüntüsü](img/dashboard.png)
-
+---
+![Dashboard Ekran Görüntüsü](img/result2.png)
 ## 🚀 Ana Özellikler
 
 - **Eş Zamanlı Tarama:** Subdomain, Dizin Tarama ve JS Analizi görevleri aynı anda çalışarak zamandan tasarruf sağlar.
