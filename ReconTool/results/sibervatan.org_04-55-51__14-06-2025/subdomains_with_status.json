@@ -1,0 +1,50 @@
+[
+    {
+        "url": "mail.sibervatan.org",
+        "status_code": 404,
+        "title": "404 Not Found",
+        "content_length": 146
+    },
+    {
+        "url": "biredogru.sibervatan.org",
+        "status_code": 404,
+        "title": "",
+        "content_length": 50
+    },
+    {
+        "url": "ftp.sibervatan.org",
+        "status_code": 404,
+        "title": "404 Not Found",
+        "content_length": 146
+    },
+    {
+        "url": "basvuru.sibervatan.org",
+        "status_code": 200,
+        "title": "Başvurular - Siber Vatan Akademi",
+        "content_length": 20224
+    },
+    {
+        "url": "www.sibervatan.org",
+        "status_code": 200,
+        "title": "Siber Vatan",
+        "content_length": 412877
+    },
+    {
+        "url": "oys.sibervatan.org",
+        "status_code": 200,
+        "title": "Siber Vatan Akademi",
+        "content_length": 11613
+    },
+    {
+        "url": "ayakustuctf.sibervatan.org",
+        "status_code": 301,
+        "title": "301 Moved Permanently",
+        "content_length": 167
+    },
+    {
+        "url": "ctf.sibervatan.org",
+        "status_code": 301,
+        "title": "301 Moved Permanently",
+        "content_length": 167
+    }
+]

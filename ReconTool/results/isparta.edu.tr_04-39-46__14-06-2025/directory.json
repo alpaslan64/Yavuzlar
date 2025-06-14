@@ -1,0 +1,238 @@
+[
+    {
+        "url": "https://isparta.edu.tr/",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/Administration",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/AppsLocalLogin",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/AppsLogin",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/Default",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/M",
+        "status": 403
+    },
+    {
+        "url": "https://isparta.edu.tr/administration",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/ajax",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/ap",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/apac",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/apache",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/apanel",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/apc",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/apexec",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/api",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/apis",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/apl",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/apm",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/app",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/app_browser",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/app_themes",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/appeal",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/appeals",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/append",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/appl",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/apple",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/applet",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/applets",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/appliance",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/appliation",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/application",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/applications",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/apply",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/apps",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/apr",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/aspnet_client",
+        "status": 403
+    },
+    {
+        "url": "https://isparta.edu.tr/assets",
+        "status": 403
+    },
+    {
+        "url": "https://isparta.edu.tr/captcha",
+        "status": 403
+    },
+    {
+        "url": "https://isparta.edu.tr/crossdomain.xml",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/default",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/docs",
+        "status": 403
+    },
+    {
+        "url": "https://isparta.edu.tr/documents",
+        "status": 403
+    },
+    {
+        "url": "https://isparta.edu.tr/dynamic",
+        "status": 403
+    },
+    {
+        "url": "https://isparta.edu.tr/en",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/favicon.ico",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/foto",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/ftp",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/json",
+        "status": 403
+    },
+    {
+        "url": "https://isparta.edu.tr/m",
+        "status": 403
+    },
+    {
+        "url": "https://isparta.edu.tr/maps",
+        "status": 403
+    },
+    {
+        "url": "https://isparta.edu.tr/masterpages",
+        "status": 403
+    },
+    {
+        "url": "https://isparta.edu.tr/mobil",
+        "status": 403
+    },
+    {
+        "url": "https://isparta.edu.tr/popup",
+        "status": 403
+    },
+    {
+        "url": "https://isparta.edu.tr/properties",
+        "status": 403
+    },
+    {
+        "url": "https://isparta.edu.tr/robots.txt",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/static",
+        "status": 403
+    },
+    {
+        "url": "https://isparta.edu.tr/test",
+        "status": 403
+    },
+    {
+        "url": "https://isparta.edu.tr/y",
+        "status": 200
+    },
+    {
+        "url": "https://isparta.edu.tr/yonetim",
+        "status": 200
+    }
+]
